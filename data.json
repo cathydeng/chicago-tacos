@@ -1,0 +1,64 @@
+{
+    "tacos":[
+        {
+            "name": "Antique Taco",
+            "neighborhood": "Wicker Park",
+            "url": "http://www.antiquetaco.com/",
+            "location": [41.906618, -87.671568]
+        },
+        {
+            "name": "Big & Little's",
+            "neighborhood": "Lakeview",
+            "url": "http://www.bigandlittleschicago.com/",
+            "location": [41.939926, -87.655525]
+        },
+        {
+            "name": "Big & Little's",
+            "neighborhood": "River North",
+            "url": "http://www.bigandlittleschicago.com/",
+            "location": [41.898355, -87.637450]
+        },
+        {
+            "name": "Big Star",
+            "neighborhood": "Wicker Park",
+            "url": "http://bigstarchicago.com/",
+            "location": [41.909285, -87.677542]
+        },
+        {
+            "name": "Del Seoul",
+            "neighborhood": "Lakeview",
+            "url": "http://www.delseoul.com/",
+            "location": [41.929323, -87.642881]
+        },
+        {
+            "name": "La Pasadita",
+            "neighborhood": "East Village",
+            "url": "http://www.pasadita.com/",
+            "location": [41.902590, -87.667554]
+        },
+        {
+            "name": "La Tacorea",
+            "neighborhood": "Lakeview",
+            "url": "http://www.latacorea.com/",
+            "location": [41.940032, -87.651309]
+        },
+        {
+            "name": "Las Asadas",
+            "neighborhood": "Bucktown",
+            "url": "http://lasasadas.com/",
+            "location": [41.918932, -87.687622]
+        },
+        {
+            "name": "Saucy Porka",
+            "neighborhood": "Loop",
+            "url": "http://saucyporka.com/",
+            "location": [41.876962, -87.632738]
+        },
+        {
+            "name": "Tecalitlan",
+            "neighborhood": "East Village",
+            "url": "http://www.tecrestaurant.com/",
+            "location": [41.896032, -87.672597]
+        }
+    ]
+}

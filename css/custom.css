@@ -1,0 +1,22 @@
+#map{
+    height: 600px;
+}
+
+body {
+    background-color: #D9D9D9;
+}
+
+.title {
+    font-weight: 700;
+    color: #F0BC1D;
+    text-shadow: -2px 2px 0px #573D05;
+    }
+
+a {
+    color: #549C1B;
+}
+
+a:hover, a:active, a:visited{
+    color: #305A10;
+    text-decoration: none;
+}
