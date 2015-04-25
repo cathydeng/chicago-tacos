@@ -17,11 +17,11 @@
 
     <body>
         <div class='row'>
-            <div class='col-md-6'>
+            <div class='col-sm-6'>
                 <div id="map">
                 </div>
             </div>
-            <div class='col-md-6'>
+            <div class='col-sm-6'>
                 <h1 class="title">CHICAGO TACO MAP!!</h1>
                 <p><i>This is a project for learning git, github, & open source development. <a href='https://github.com/cathydeng/chicago-tacos' target='blank'>Contribute!</a></i></p>
                 <ul id="taco-list">
@@ -35,7 +35,7 @@
     <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
     <script type="text/javascript">
         $(document).ready(function() {
-            var map = new L.map('map').setView([41.89, -87.66], 12);
+            var map = new L.map('map', {scrollWheelZoom: false}).setView([41.89, -87.66], 12);
 
             var layer = new L.StamenTileLayer("toner-lite");
             map.addLayer(layer);
